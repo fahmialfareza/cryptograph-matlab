@@ -1,2 +1,3 @@
-# matlab_cryptograph
-Tugas Akhir Matlab Mata Kuliah Kriptografi
+# Cryptograph
+
+Design a Cryptograph with Matlab
