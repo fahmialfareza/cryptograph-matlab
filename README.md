@@ -1,3 +1,3 @@
 # Cryptograph
 
-Design a Cryptograph with Matlab
+Design Cryptograph with Matlab
